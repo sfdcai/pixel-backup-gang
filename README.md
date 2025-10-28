@@ -1,4 +1,4 @@
-# pixel backup gang
+# pixel backup gang version 2.0
 
 augment the OG pixel's internal storage with an external drive
 
